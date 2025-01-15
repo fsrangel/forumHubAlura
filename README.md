@@ -43,7 +43,7 @@ ForumHub é uma API REST criada em Java que simula o funcionamento de um fórum 
 ### Passos para Configuração
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/joas-barros/ONEForumHub.git
+   git clone https://github.com/fsrangel/forumHubAlura.git
    cd ONEForumHub
    ```
 2. Configure o banco de dados PostgreSQL:
